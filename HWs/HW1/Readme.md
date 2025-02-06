@@ -1,7 +1,8 @@
 # MEC 529: Introduction to Robotics - Homework 1
 
 ## Overview
-This repository contains the MATLAB code and report for Homework 1 of the MEC 529: Introduction to Robotics course at Stony Brook University, Spring 2023. The assignment focuses on the forward kinematics, inverse kinematics, and Jacobian computation of a 2R planar robot. The workspace of the robot is also analyzed and visualized.
+This repository contains the MATLAB code for Homework 1 of the MEC 529: Introduction to Robotics course, Spring 2023. 
+The assignment focuses on the forward kinematics, inverse kinematics, and Jacobian computation of a 2R planar robot. The workspace of the robot is also analyzed and visualized.
 
 ## Repository Structure
 - **`FK_2R.m`**: MATLAB function for computing the forward kinematics of the 2R planar robot.
