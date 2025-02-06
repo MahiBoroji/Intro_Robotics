@@ -1,0 +1,1 @@
+Add both "Main Code" and "Add to PAth" folders to MATLAB path.
